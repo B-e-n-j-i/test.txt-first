@@ -1,9 +1,6 @@
 working directory -> staging area -> local repository/folder -> remote repositry/folder
 test-project      ->  git add     ->     git commit          -> git push 
 
-tracked (in staging area)
-untracked (git doesn't know what I'm editing)
+make changes -> git add -> git commit -> git push
 
-changes control
-version control
-
+git pull (bascially, "updating" your repository)
